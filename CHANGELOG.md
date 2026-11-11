@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.16.0](https://github.com/beppe2880/opencode-mobile/compare/v0.15.0...v0.16.0) (2026-11-11)
+
+
+### Features
+
+* **chat:** Adjustable sensitivity of the swipe that opens and closes the chat list ([#191](https://github.com/beppe2880/opencode-mobile/issues/191)) ([7915004](https://github.com/beppe2880/opencode-mobile/commit/79150040773d71ba86c8c9c4b5bef8edf971e45f))
+* **settings:** Settings section for foldables and large screens ([#192](https://github.com/beppe2880/opencode-mobile/issues/192)) ([0157a47](https://github.com/beppe2880/opencode-mobile/commit/0157a47786da386b7a56f4bafdfad8dc1d24cc77))
+
+
+### Bug fixes
+
+* **sessions:** Restore the split view when unfolding with a chat open ([#190](https://github.com/beppe2880/opencode-mobile/issues/190)) ([347dc2f](https://github.com/beppe2880/opencode-mobile/commit/347dc2fe300b6d90bdd97aa2b4508c744ee968cc))
+
 ## [0.15.0](https://github.com/beppe2880/opencode-mobile/compare/v0.14.0...v0.15.0) (2026-11-10)
 
 
